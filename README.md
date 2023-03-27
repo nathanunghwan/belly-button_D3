@@ -35,13 +35,13 @@ The dataset reveals that a small handful of microbial species (also called opera
 6.Update all the plots when a new sample is selected. The dashboard is shown as follows:
 
 <img
-  src="./StarterCode/Images/dashbord2.png"
+  src="./Images/dashbord2.png"
   width="600"
   height="400"
 />
 
 <img
-  src="./StarterCode/Images/dashboard1.png"
+  src="./Images/dashboard1.png"
   width="600"
   height="250"
 />
