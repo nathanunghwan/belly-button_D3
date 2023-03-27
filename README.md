@@ -36,12 +36,12 @@ The dataset reveals that a small handful of microbial species (also called opera
 
 <img
   src="./StarterCode/Images/dashbord2.png"
-  width="350"
-  height="250"
+  width="600"
+  height="400"
 />
 
 <img
   src="./StarterCode/Images/dashboard1.png"
-  width="350"
+  width="600"
   height="250"
 />
